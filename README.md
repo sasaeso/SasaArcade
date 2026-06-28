@@ -6,20 +6,20 @@ Sasa's Arcade is a small collection of classic arcade games built with Python an
 
 Currently, the arcade includes:
 
-* 👾 Space Invaders
-* 🏓 Ping Pong
-* 🧩 Tetris
+-Space Invaders
+-Ping Pong
+-Tetris
 
 ---
 
 ## Features
 
-* Animated arcade-style menu
-* Procedurally generated sound effects and background music
-* Keyboard and mouse support
-* Smooth transitions between the menu and games
-* Particle effects and animated backgrounds
-* Modular design that makes it easy to add more games later
+ Animated arcade-style menu, 
+ Procedurally generated sound effects and background music, 
+ Keyboard and mouse support, 
+ Smooth transitions between the menu and games, 
+Particle effects and animated backgrounds, 
+ Modular design that makes it easy to add more games later, 
 
 ---
 
@@ -29,7 +29,7 @@ Currently, the arcade includes:
 
 
 
-Make sure all game files are in the same folder as the launcher.
+Make sure all game files are in the same folder as main.exe.
 
 ---
 
@@ -37,9 +37,7 @@ Make sure all game files are in the same folder as the launcher.
 
 ### Menu
 
-* **Left / Right Arrow** – Select a game
-* **Enter** or **Space** – Launch the selected game
-* **Mouse** – Select and launch using the buttons
+Arrows, WASD, Space
 
 Each individual game has its own controls.
 
@@ -58,11 +56,11 @@ Choose a game from the menu and enjoy.
 
 I wanted to build something that felt like an old-school arcade cabinet rather than just a folder full of separate games. Most of the time went into making the menu feel alive with animations, particles, transitions, and generated sound effects.
 
-The project also helped me get more comfortable working with Pygame, organizing larger programs, and separating different games into their own modules.
 
 ---
+## AI used
 
-
+Claude helped me creating the main menu of the games. The most work was done by hand
 
 ---
 
